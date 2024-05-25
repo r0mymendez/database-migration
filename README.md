@@ -40,6 +40,10 @@ A migration is the process that allows you to modify the structure of the databa
 
 **Alembic** is a 🐍Python library that enables controlled and automated database migrations. This library utilizes `SQLAlchemy`  and  it allows for the management of changes in the database schema through __scripts__, which describe the modifications and can be applied automatically.
 
+---
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=flat&labelColor=101010&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/r0mymendez)
+
 ![img](img/alemic-flow.png)
 
 ---
